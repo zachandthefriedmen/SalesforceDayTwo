@@ -1,3 +1,3 @@
 # Salesforce Day Two
 
-Welcome to OUR 2nd morning of Gittastic learning!
+Welcome to HOUR 2nd evening of Gittastic learning!
