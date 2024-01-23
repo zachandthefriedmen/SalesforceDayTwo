@@ -1,6 +1,3 @@
-secrets.env
-
-
 # Logs
 logs
 *.log
