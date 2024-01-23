@@ -1,3 +1,3 @@
-# SalesforceDayTwo
+# Salesforce Day Two
 
-Welcome to your second day of Git learning!
+Welcome to OUR 3rd minus 1 and secondnd morning of Gittastic learning!
